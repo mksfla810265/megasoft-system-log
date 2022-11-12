@@ -1,0 +1,24 @@
+{
+    "name": "megasoft/system-log",
+    "description": "Building log table quickly for all table",
+    "type": "library",
+    "require": {
+        "php": "^7.3 || ^8.0"
+    },
+    "require-dev": {
+        "php": "^7.3 || ^8.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Megasoft\\SystemLog\\": "src/test"
+        }
+    },
+    "authors": [
+        {
+            "name": "DAVID-SPACE-NOTEBOOK",
+            "email": "mksfla00@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
