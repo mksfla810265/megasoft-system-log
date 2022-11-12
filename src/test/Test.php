@@ -1,6 +1,6 @@
 <?php
 
-namespace Louis;
+namespace Megasoft;
 
 class Test
 {
